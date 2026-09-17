@@ -1,0 +1,6 @@
+{
+  "name": "AgriTrade Platform",
+  "description": "An agricultural marketplace platform acting as an intermediary for farmers to sell produce and buy seeds, and buyers to purchase produce with shipment tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
